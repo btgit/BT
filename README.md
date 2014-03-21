@@ -1,3 +1,3 @@
 BT
 ==
-Hier kommen Projekte rein von BT zum Testen
+Hier kommen Projekte rein von BT
