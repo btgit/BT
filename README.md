@@ -2,4 +2,4 @@ BT
 ==
 Hier kommen Projekte rein von BT
 
-dauer aber noch
+dauert aber noch
